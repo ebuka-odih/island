@@ -152,9 +152,9 @@
             padding: 0 !important;
         }
     </style>
-    <link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.min6a4d.css?ver=6.1.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='wc-block-style-css' href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/stylea1ec.css?ver=2.3.0' type='text/css' media='all' />
-    <link rel='stylesheet' id='classic-theme-styles-css' href='wp-includes/css/classic-themes.min68b3.css?ver=1' type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-block-library-css' href='{{ asset('wp-includes/css/dist/block-library/style.min6a4d.css?ver=6.1.1') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='wc-block-style-css' href='{{ asset('wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/stylea1ec.css?ver=2.3.0') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='classic-theme-styles-css' href='{{ asset('wp-includes/css/classic-themes.min68b3.css?ver=1') }}' type='text/css' media='all' />
     <style id='global-styles-inline-css' type='text/css'>
         body {
             --wp--preset--color--black: #000000;
@@ -488,22 +488,22 @@
             line-height: 1.6;
         }
     </style>
-    <link rel='stylesheet' id='chaty-css-css' href='wp-content/plugins/chaty-pro/css/chaty-front.minea1d.css?ver=3.0.31657509079' type='text/css' media='all' />
-    <link rel='stylesheet' id='contact-form-7-css' href='wp-content/plugins/contact-form-7/includes/css/styles4999.css?ver=5.7.4' type='text/css' media='all' />
-    <link rel='stylesheet' id='rs-plugin-settings-css' href='wp-content/plugins/revslider/public/assets/css/settings23da.css?ver=5.4.8' type='text/css' media='all' />
+    <link rel='stylesheet' id='chaty-css-css' href='{{ asset('wp-content/plugins/chaty-pro/css/chaty-front.minea1d.css?ver=3.0.31657509079') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='contact-form-7-css' href='{{ asset('wp-content/plugins/contact-form-7/includes/css/styles4999.css?ver=5.7.4') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='rs-plugin-settings-css' href='{{ asset('wp-content/plugins/revslider/public/assets/css/settings23da.css?ver=5.4.8') }}' type='text/css' media='all' />
     <style id='rs-plugin-settings-inline-css' type='text/css'>
         #rs-demo-id {}
     </style>
-    <link rel='stylesheet' id='woocommerce-smallscreen-css' href='wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen1ac1.css?ver=3.7.3' type='text/css' media='only screen and (max-width: 768px)' />
+    <link rel='stylesheet' id='woocommerce-smallscreen-css' href='{{ asset('wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen1ac1.css?ver=3.7.3') }}' type='text/css' media='only screen and (max-width: 768px)' />
     <style id='woocommerce-inline-inline-css' type='text/css'>
         .woocommerce form .form-row .required {
             visibility: visible;
         }
     </style>
-    <link rel='stylesheet' id='theme-style-all-css' href='wp-content/themes/rttheme19/css/layout2/app.minfc99.css?ver=2.6' type='text/css' media='all' />
-    <link rel='stylesheet' id='rt-woocommerce-css' href='wp-content/themes/rttheme19/css/woocommerce/rt-woocommerce.minfc99.css?ver=2.6' type='text/css' media='all' />
-    <link rel='stylesheet' id='mediaelement-skin-css' href='wp-content/themes/rttheme19/css/mejs-skin.minfc99.css?ver=2.6' type='text/css' media='all' />
-    <link rel='stylesheet' id='fontello-css' href='wp-content/themes/rttheme19/css/fontello/css/fontellofc99.css?ver=2.6' type='text/css' media='all' />
+    <link rel='stylesheet' id='theme-style-all-css' href='{{ asset('wp-content/themes/rttheme19/css/layout2/app.minfc99.css?ver=2.6') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='rt-woocommerce-css' href='{{ asset('wp-content/themes/rttheme19/css/woocommerce/rt-woocommerce.minfc99.css?ver=2.6') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='mediaelement-skin-css' href='{{ asset('wp-content/themes/rttheme19/css/mejs-skin.minfc99.css?ver=2.6') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='fontello-css' href='{{ asset('wp-content/themes/rttheme19/css/fontello/css/fontellofc99.css?ver=2.6') }}' type='text/css' media='all' />
     <!--[if IE 9]>
     <link rel='stylesheet' id='theme-ie9-css' href='https://harapanmitragroup.co.id/wp-content/themes/rttheme19/css/ie9.min.css?ver=2.6' type='text/css' media='all' />
     <![endif]-->
@@ -539,7 +539,7 @@
 
     <!-- end Simple Custom CSS and JS -->
     <!-- start Simple Custom CSS and JS -->
-   
+
     <!-- end Simple Custom CSS and JS -->
     <!-- start Simple Custom CSS and JS -->
     <style type="text/css">
@@ -697,9 +697,6 @@
     <link rel="stylesheet" type="text/css" href="https://harapanmitragroup.co.id/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen">
     <![endif]-->
     <meta name="generator" content="Powered by Slider Revolution 5.4.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-    <link rel="icon" href="wp-content/uploads/2023/02/cropped-Logo-HMS-Email-32x32.jpg" sizes="32x32" />
-    <link rel="icon" href="wp-content/uploads/2023/02/cropped-Logo-HMS-Email-192x192.jpg" sizes="192x192" />
-    <link rel="apple-touch-icon" href="wp-content/uploads/2023/02/cropped-Logo-HMS-Email-180x180.jpg" />
     <meta name="msapplication-TileImage" content="https://harapanmitragroup.co.id/wp-content/uploads/2023/02/cropped-Logo-HMS-Email-270x270.jpg" />
     <script type="text/javascript">
         function setREVStartSize(e) {
