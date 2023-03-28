@@ -753,7 +753,8 @@
             <!-- logo -->
             <div id="logo" class="site-logo">
                 <a href="{{ route('index') }}" title="Harapan Mitra Sejati">
-                    <img src="wp-content/uploads/2021/09/logo-harapan-mitra-group.png" alt="Harapan Mitra Sejati" width="504" height="125" class="main_logo" />
+                    <h1 style="font-weight: bolder; color: white">IslandContractors</h1>
+{{--                    <img src="wp-content/uploads/2021/09/logo-harapan-mitra-group.png" alt="Harapan Mitra Sejati" width="504" height="125" class="main_logo" />--}}
                 </a>
             </div>
             <!-- / end #logo -->

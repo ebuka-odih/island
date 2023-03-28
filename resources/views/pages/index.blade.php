@@ -56,7 +56,7 @@
                                             </div>
                                         </li>
                                         <!-- SLIDE  -->
-                                        
+
                                     </ul>
                                     <script>
                                         var htmlDiv = document.getElementById("rs-plugin-settings-inline-css");
