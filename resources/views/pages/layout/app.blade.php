@@ -735,39 +735,7 @@
                         </li>
                     </ul>
                 </nav>
-                <!-- shortcut buttons -->
-                <div id="tools">
-                    <ul>
-                        <li class="tool-icon" title="Open">
-                            <span class="icon-plus"></span>
-                        </li>
-                    </ul>
-                    <ul>
-                        <li class="tool-icon cart" title="Cart">
-                  <span class="icon-basket">
-                    <sub class="number empty">0</sub>
-                  </span>
-                            <div class="widget woocommerce widget_shopping_cart">
-                                <h5>Cart</h5>
-                                <div class="widget_shopping_cart_content"></div>
-                            </div>
-                        </li>
-                        <li class="tool-icon search" title="Search">
-                            <span class="icon-search"></span>
-                            <div class="widget">
-                                <form method="get" action="https://harapanmitragroup.co.id/" class="wp-search-form rt_form">
-                                    <ul>
-                                        <li>
-                                            <input type="text" class='search showtextback' placeholder="search" name="s" />
-                                            <span class="icon-search-1"></span>
-                                        </li>
-                                    </ul>
-                                </form>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-                <!-- / end #tools -->
+               
             </div>
             <!-- / end .header-right -->
         </div>
