@@ -26,7 +26,7 @@
         } /* ]]>*/
     </script>
     <!-- This site is optimized with the Yoast SEO Premium plugin v20.3 (Yoast SEO v20.3) - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>Distributor Bahan Bangunan Jakarta - Harapan Mitra Sejati</title>
+    <title>Distributor Building Materials Jakarta - Harapan Mitra Sejati</title>
     <meta name="description" content="PT Harapan Mitra Sejati adalah distributor bahan bangunan untuk proyek konstruksi seperti produk besi, baja, pelat, pipa, dan produk lainnya" />
     <link rel="canonical" href="index.html" />
     <meta property="og:locale" content="en_US" />
@@ -507,15 +507,15 @@
     <!--[if IE 9]>
     <link rel='stylesheet' id='theme-ie9-css' href='https://harapanmitragroup.co.id/wp-content/themes/rttheme19/css/ie9.min.css?ver=2.6' type='text/css' media='all' />
     <![endif]-->
-    <link rel='stylesheet' id='js_composer_front-css' href='wp-content/plugins/js_composer/assets/css/js_composer.min4245.css?ver=5.5.2' type='text/css' media='all' />
-    <link rel='stylesheet' id='theme-style-css' href='wp-content/themes/rttheme19-child/style6a4d.css?ver=6.1.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='theme-dynamic-css' href='wp-content/uploads/rttheme19/dynamic-style9942.css?ver=230216033242' type='text/css' media='all' />
+    <link rel='stylesheet' id='js_composer_front-css' href='{{ asset('wp-content/plugins/js_composer/assets/css/js_composer.min4245.css?ver=5.5.2') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='theme-style-css' href='{{ asset('wp-content/themes/rttheme19-child/style6a4d.css?ver=6.1.1') }}' type='text/css' media='all' />
+    <link rel='stylesheet' id='theme-dynamic-css' href='{{ asset('wp-content/uploads/rttheme19/dynamic-style9942.css?ver=230216033242') }}' type='text/css' media='all' />
     <link rel='stylesheet' id='rt-google-fonts-css' href='http://fonts.googleapis.com/css?family=Oswald%3A300%2Cregular%7CRoboto%3Aregular&amp;subset=latin%2Clatin-ext&amp;ver=1.0.0' type='text/css' media='all' />
-    <script type='text/javascript' src='wp-includes/js/jquery/jquery.mina7a0.js?ver=3.6.1' id='jquery-core-js'></script>
-    <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min23da.js?ver=5.4.8' id='tp-tools-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min23da.js?ver=5.4.8' id='revmin-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70' id='jquery-blockui-js'></script>
+    <script type='text/javascript' src='{{ asset('wp-includes/js/jquery/jquery.mina7a0.js?ver=3.6.1') }}' id='jquery-core-js'></script>
+    <script type='text/javascript' src='{{ asset('wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2') }}' id='jquery-migrate-js'></script>
+    <script type='text/javascript' src='{{ asset('wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min23da.js?ver=5.4.8') }}' id='tp-tools-js'></script>
+    <script type='text/javascript' src='{{ asset('wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min23da.js?ver=5.4.8') }}' id='revmin-js'></script>
+    <script type='text/javascript' src='{{ asset('wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70') }}' id='jquery-blockui-js'></script>
     <script type='text/javascript' id='wc-add-to-cart-js-extra'>
         /*
                   <![CDATA[ */
@@ -529,42 +529,17 @@
         };
         /* ]]> */
     </script>
-    <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min1ac1.js?ver=3.7.3' id='wc-add-to-cart-js'></script>
-    <script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart4245.js?ver=5.5.2' id='vc_woocommerce-add-to-cart-js-js'></script>
+    <script type='text/javascript' src='{{ asset('wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min1ac1.js?ver=3.7.3') }}' id='wc-add-to-cart-js'></script>
+    <script type='text/javascript' src='{{ asset('wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart4245.js?ver=5.5.2') }}' id='vc_woocommerce-add-to-cart-js-js'></script>
     <link rel="https://api.w.org/" href="wp-json/index.html" />
-    <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/2538.json" />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
     <meta name="generator" content="WordPress 6.1.1" />
     <meta name="generator" content="WooCommerce 3.7.3" />
     <link rel='shortlink' href='index.html' />
-    <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed0479.json?url=https%3A%2F%2Fharapanmitragroup.co.id%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embedae0b?url=https%3A%2F%2Fharapanmitragroup.co.id%2F&amp;format=xml" />
     <!-- start Simple Custom CSS and JS -->
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-79006335-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'UA-79006335-1');
-    </script>
     <!-- end Simple Custom CSS and JS -->
     <!-- start Simple Custom CSS and JS -->
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-150092520-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'UA-150092520-1');
-    </script>
+   
     <!-- end Simple Custom CSS and JS -->
     <!-- start Simple Custom CSS and JS -->
     <style type="text/css">
