@@ -722,7 +722,7 @@
                             <a href="{{ route('about') }}">ABOUT US</a>
                         </li>
                         <li id='menu-item-2843' data-depth='0' class="menu-item menu-item-type-post_type menu-item-object-page">
-                            <a href="shop/index.html">PRODUCT</a>
+                            <a href="{{ route('product') }}">PRODUCT</a>
                         </li>
                         <li id='menu-item-2835' data-depth='0' class="menu-item menu-item-type-post_type menu-item-object-page">
                             <a href="blog/index.html">BLOG</a>

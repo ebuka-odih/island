@@ -29,7 +29,7 @@
                     <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element ">
                             <div class="wpb_wrapper">
-                                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Harapan Mitra Group (started from the establishment of PT Harapan Mitra Sejati in 2003 and the joining of PT Harapan Mitra Kreasi in 2019) has become a distribution and trading center for building materials that provides various kinds of materials such as steel, cement, lightweight brick, plywood, and so on .</font></font></p>
+                                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IslandConstructors Group (started from the establishment of PT Harapan Mitra Sejati in 2003 and the joining of PT Harapan Mitra Kreasi in 2019) has become a distribution and trading center for building materials that provides various kinds of materials such as steel, cement, lightweight brick, plywood, and so on .</font></font></p>
                                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Always providing the best service and providing products according to the Indonesian National Standard (SNI) at competitive prices, we have contributed to various major national construction projects throughout Indonesia.</font></font></p>
                                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">We continue to be committed to being the leading, most complete and trusted provider of building materials with the best quality products to be able to meet market needs and support development in Indonesia.</font></font></p>
                             </div>
@@ -105,7 +105,7 @@
                                         </div>
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
-                                                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Harapan Mitra Group has always been committed to upholding company principles, being consistent and professional in serving consumers, with high ethical standards in every job.</font></font></p>
+                                                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IslandConstructors Group has always been committed to upholding company principles, being consistent and professional in serving consumers, with high ethical standards in every job.</font></font></p>
                                             </div>
                                         </div>
                                     </div>
@@ -122,7 +122,7 @@
                                         </div>
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
-                                                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Harapan Mitra Group always tries to provide and maintain product quality according to the Indonesian National Standard (SNI) with </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IslandConstructors Group always tries to provide and maintain product quality according to the Indonesian National Standard (SNI) with </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                                                             the best and efficient service.</font></font>
                                                 </p>
                                             </div>
@@ -157,13 +157,13 @@
                                 <div class="tab_content_wrapper animation  active" id="tab-1" data-tab-content="1">
                                     <div id="tab-1-inline-title" class="tab_title visible-xs" data-tab-number="1"><span class="icon-calendar-1"></span>2021</div>
                                     <div class="tab_content">
-                                        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">With the establishment of a new office and warehouse, PT. </font><font style="vertical-align: inherit;">Harapan Mitra Sejati is increasingly convinced to continue developing the company to become one of the best distributors of building materials in Indonesia.</font></font></p>
+                                        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">With the establishment of a new office and warehouse, PT. </font><font style="vertical-align: inherit;">IslandConstructors Sejati is increasingly convinced to continue developing the company to become one of the best distributors of building materials in Indonesia.</font></font></p>
                                     </div>
                                 </div>
                                 <div class="tab_content_wrapper animation " id="tab-2" data-tab-content="2">
                                     <div id="tab-2-inline-title" class="tab_title visible-xs" data-tab-number="2"><span class="icon-calendar-1"></span>2019</div>
                                     <div class="tab_content">
-                                        <p>PT. Harapan Mitra Sejati&nbsp;membentuk perusahaan&nbsp;baru yaitu, PT. Harapan&nbsp;Mitra Kreasi, dengan&nbsp;harapan agar dapat&nbsp;menyediakan produk diluar&nbsp;besi dan semen untuk&nbsp;pelanggan kami.</p>
+                                        <p>PT. IslandConstructors Sejati&nbsp;membentuk perusahaan&nbsp;baru yaitu, PT. Harapan&nbsp;Mitra Kreasi, dengan&nbsp;harapan agar dapat&nbsp;menyediakan produk diluar&nbsp;besi dan semen untuk&nbsp;pelanggan kami.</p>
                                     </div>
                                 </div>
                                 <div class="tab_content_wrapper animation " id="tab-3" data-tab-content="3">
@@ -193,13 +193,13 @@
                                 <div class="tab_content_wrapper animation " id="tab-7" data-tab-content="7">
                                     <div id="tab-7-inline-title" class="tab_title visible-xs" data-tab-number="7"><span class="icon-calendar-1"></span>2004</div>
                                     <div class="tab_content">
-                                        <p>Menjadi distributor besi&nbsp;beton untuk beberapa&nbsp;merk besi ternama&nbsp;di Indonesia.</p>
+                                        <p>Become an iron distributor&nbsp;concrete for some&nbsp;merk besi ternama&nbsp;di Indonesia.</p>
                                     </div>
                                 </div>
                                 <div class="tab_content_wrapper animation " id="tab-8" data-tab-content="8">
                                     <div id="tab-8-inline-title" class="tab_title visible-xs" data-tab-number="8"><span class="icon-calendar-1"></span>2003</div>
                                     <div class="tab_content">
-                                        <p>PT. Harapan Mitra Sejati&nbsp;didirikan di Jakarta,&nbsp;sebagai distributor&nbsp;resmi Semen&nbsp;Bosowa Indonesia.</p>
+                                        <p>IslandConstructors &nbsp;established in Jakarta,&nbsp;as a distributor&nbsp;cement official&nbsp;Bosowa Indonesia.</p>
                                     </div>
                                 </div>
                             </div>
