@@ -29,7 +29,7 @@
                     <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element ">
                             <div class="wpb_wrapper">
-                                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IslandConstructors Group (started from the establishment of PT Harapan Mitra Sejati in 2003 and the joining of PT Harapan Mitra Kreasi in 2019) has become a distribution and trading center for building materials that provides various kinds of materials such as steel, cement, lightweight brick, plywood, and so on .</font></font></p>
+                                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IslandConstructors Group (started from the establishment of PT IslandConstructors Sejati in 2003 and the joining of PT IslandConstructors Kreasi in 2019) has become a distribution and trading center for building materials that provides various kinds of materials such as steel, cement, lightweight brick, plywood, and so on .</font></font></p>
                                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Always providing the best service and providing products according to the Indonesian National Standard (SNI) at competitive prices, we have contributed to various major national construction projects throughout Indonesia.</font></font></p>
                                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">We continue to be committed to being the leading, most complete and trusted provider of building materials with the best quality products to be able to meet market needs and support development in Indonesia.</font></font></p>
                             </div>
@@ -187,7 +187,7 @@
                                 <div class="tab_content_wrapper animation " id="tab-6" data-tab-content="6">
                                     <div id="tab-6-inline-title" class="tab_title visible-xs" data-tab-number="6"><span class="icon-calendar-1"></span>2005</div>
                                     <div class="tab_content">
-                                        <p>Ditunjuk oleh beberapa&nbsp;pabrik besi ternama&nbsp;untuk menjadi&nbsp;distributor WF/HB,&nbsp;Wiremesh, Pipa, Hollow,&nbsp;CNP, UNP, INP, dll.</p>
+                                        <p>Appointed by some&nbsp;famous iron factory&nbsp;to be&nbsp;distributor WF/HB,&nbsp;Wiremesh, Pipe, Hollow,&nbsp;CNP, UNP, INP, dll.</p>
                                     </div>
                                 </div>
                                 <div class="tab_content_wrapper animation " id="tab-7" data-tab-content="7">
@@ -228,7 +228,7 @@
                                         </div>
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
-                                                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Since 2003, Harapan Mitra Sejati has built a reputation as the most complete and trusted building materials distribution and trading center in Indonesia.</font></font></p>
+                                                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Since 2003, IslandConstructors Sejati has built a reputation as the most complete and trusted building materials distribution and trading center in Indonesia.</font></font></p>
                                                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">As the main material in construction, we always maintain product quality and provide the best service to support development in Indonesia.</font></font></p>
                                             </div>
                                         </div>
@@ -248,7 +248,7 @@
                                         </div>
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
-                                                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Established in 2019, Harapan Mitra Kreasi is a distribution and trading center for construction and interior supporting materials. </font><font style="vertical-align: inherit;">Our products include plywood, paint, gypsum, and so on.</font></font></p>
+                                                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Established in 2019, IslandConstructors Kreasi is a distribution and trading center for construction and interior supporting materials. </font><font style="vertical-align: inherit;">Our products include plywood, paint, gypsum, and so on.</font></font></p>
                                                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seeing the high interest in the interior world, the design of a building is an important point that will always be considered. </font><font style="vertical-align: inherit;">Here, we provide the basic materials for making the interior design.</font></font></p>
                                             </div>
                                         </div>
