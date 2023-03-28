@@ -719,7 +719,7 @@
                             <a href="{{ route('index') }}">HOME</a>
                         </li>
                         <li id='menu-item-2831' data-depth='0' class="menu-item menu-item-type-post_type menu-item-object-page">
-                            <a href="tentang-kami/index.html">ABOUT US</a>
+                            <a href="{{ route('about') }}">ABOUT US</a>
                         </li>
                         <li id='menu-item-2843' data-depth='0' class="menu-item menu-item-type-post_type menu-item-object-page">
                             <a href="shop/index.html">PRODUCT</a>
@@ -731,11 +731,11 @@
                             <a href="our-partners/index.html">OUR PARTIES</a>
                         </li>
                         <li id='menu-item-2833' data-depth='0' class="menu-item menu-item-type-post_type menu-item-object-page">
-                            <a href="contact-us/index.html">REQUEST AN OFFER</a>
+                            <a href="contact-us/index.html">TRACK PRODUCT</a>
                         </li>
                     </ul>
                 </nav>
-               
+
             </div>
             <!-- / end .header-right -->
         </div>
@@ -752,76 +752,32 @@
                         <div class="textwidget custom-html-widget">
                             <img alt="Distributor Besi Jakarta dan Sekitarnya" src="wp-content/uploads/2021/09/logo-harapan-mitra-group.png" width="80%" />
                             <br />
-                            <p> IslandConstructors (PT HMS) didirikan pada tahun 2013 dengan tujuan menjadi pemain penting dalam bidang penyediaan material konstruksi untuk pasar domestik Indonesia. </p>
-                            <p> Memadukan pelayanan terbaik dengan produk berkualitas tinggi, pada saat ini PT HMS telah mendukung berbagai proyek konstruksi di Jakarta dan sekitarnya. </p>
+                            <p> IslandConstructors was founded in 2013 with the aim of becoming an important player in the supply of construction materials for the Indonesian domestic market. </p>
+                            <p>Combining the best service with high quality products, currently IslandConstructors has supported various construction projects in Jakarta and its surroundings. </p>
                         </div>
-                    </div>
-                    <div id="social_media_icons-1" class="footer_widget widget widget_social_media_icons">
-                        <ul class="social_media">
-                            <li class="mail">
-                                <a class="icon-mail" target="_blank" href="contact-us/index.html" title="Email">
-                                    <span>Contact Us</span>
-                                </a>
-                            </li>
-                            <li class="twitter">
-                                <a class="icon-twitter" target="_blank" href="https://twitter.com/harapanmitrase1" title="Twitter">
-                                    <span>Follow us on Twitter</span>
-                                </a>
-                            </li>
-                            <li class="facebook">
-                                <a class="icon-facebook" target="_blank" href="https://www.facebook.com/ptharapanmitrasejati" title="Facebook">
-                                    <span>Follow us on Facebook</span>
-                                </a>
-                            </li>
-                            <li class="gplus">
-                                <a class="icon-gplus" target="_blank" href="https://plus.google.com/+HarapanMitraSejatiPT" title="Google +">
-                                    <span>Follow us on Google+</span>
-                                </a>
-                            </li>
-                            <li class="linkedin">
-                                <a class="icon-linkedin" target="_self" href="#" title="Linkedin">
-                                    <span>Career Opportunities</span>
-                                </a>
-                            </li>
-                            <li class="skype">
-                                <a class="icon-skype" target="_blank" href="skype:0003BFFD1B8ADE7F?call" title="Skype">
-                                    <span>Call us via Skype</span>
-                                </a>
-                            </li>
-                            <li class="instagram">
-                                <a class="icon-instagram" target="_blank" href="https://www.instagram.com/harapanmitragroup" title="Instagram">
-                                    <span>Follow us on Instagram</span>
-                                </a>
-                            </li>
-                            <li class="youtube-play">
-                                <a class="icon-youtube-play" target="_self" href="https://www.youtube.com/channel/UCBpUyrjJ4gSUkFK1FDjdHtw/" title="YouTube">
-                                    <span>Subscribe our YouTube Channel</span>
-                                </a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
                 <div id="footer-column-2" class="col col-xs-12 col-sm-4 widgets_holder">
                     <div id="latest_posts_2-1" class="footer_widget widget widget_latest_posts">
-                        <h5>Artikel Terbaru</h5>
+                        <h5>Latest Articles</h5>
                         <div>
                             <img src="wp-content/uploads/2022/03/Besi-Beton-Polos-50x50.jpg" alt="Jual Besi Beton Polos dan Ulir Terbaik di Jakarta" class="post-thumb" />
-                            <a class="title" href="merk-besi-beton-terbaik/index.html" title="Merk Besi Beton Terbaik dari Distributor Besi" rel="bookmark">Merk Besi Beton Terbaik dari Distributor Besi</a>
+                            <a class="title"  title="Merk Besi Beton Terbaik dari Distributor Besi" rel="bookmark">Merk Besi Beton Terbaik dari Distributor Besi</a>
                             <span class="meta">March 10, 2023</span>
                         </div>
                         <div>
                             <img src="wp-content/uploads/2023/02/Mengenal-Triplek-Jenis-Karakteristik-dan-Keuntungannya-2-50x50.jpg" alt="Jual Triplek Terdekat, Jual Triplek, Triplek Cor, Triplek MC" class="post-thumb" />
-                            <a class="title" href="jual-triplek-terdekat-jual-triplek-cor-mc/index.html" title="Jual Triplek Terdekat, Jual Triplek Jakarta" rel="bookmark">Jual Triplek Terdekat, Jual Triplek Jakarta</a>
+                            <a class="title"  title="Jual Triplek Terdekat, Jual Triplek Jakarta" rel="bookmark">Jual Triplek Terdekat, Jual Triplek Jakarta</a>
                             <span class="meta">February 22, 2023</span>
                         </div>
                         <div>
                             <img src="wp-content/uploads/2023/02/Tips-Mendapatkan-Baja-Dari-Produsen-Baja-Ringan-Berkualitas-50x50.jpg" alt="Baja Ringan, Besi Baja Ringan, Jual Besi Baja" class="post-thumb" />
-                            <a class="title" href="besi-baja-ringan-bata-suplier/index.html" title="Besi Baja Suplier Besi Baja Terdekat" rel="bookmark">Besi Baja Suplier Besi Baja Terdekat</a>
+                            <a class="title"  title="Besi Baja Suplier Besi Baja Terdekat" rel="bookmark">Besi Baja Suplier Besi Baja Terdekat</a>
                             <span class="meta">February 16, 2023</span>
                         </div>
                         <div>
                             <img src="wp-content/uploads/2023/02/Apa-Itu-Besi-Hollow-2-50x50.jpg" alt="Besi Hollow, Pipa Kotak" class="post-thumb" />
-                            <a class="title" href="besi-hollow-pipa-kotak-besi-profi/index.html" title="Besi Hollow atau Pipa Kotak" rel="bookmark">Besi Hollow atau Pipa Kotak</a>
+                            <a class="title" title="Besi Hollow atau Pipa Kotak" rel="bookmark">Besi Hollow atau Pipa Kotak</a>
                             <span class="meta">February 13, 2023</span>
                         </div>
                     </div>
@@ -833,7 +789,7 @@
                             <div class="with_icons style-1">
                                 <div>
                                     <span class="icon icon-home"></span>
-                                    <div>IslandConstructors <br /> SENTRA 22 (Depan Pintu Tol Semper 2) <br /> Jalan Cakung Cilincing Raya No. 22, RT 001, RW 003, Semper Timur, Cilincing 14130 </div>
+                                    <div>IslandConstructors <br /> SENTRA 22 (Front Semper 2 Toll Gate) <br /> Jalan Cakung Cilincing Raya No. 22, RT 001, RW 003, Semper Timur, Cilincing 14130 </div>
                                 </div>
                                 <div>
                                     <span class="icon icon-phone"></span>
