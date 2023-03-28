@@ -7,8 +7,8 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="alternate" type="application/rss+xml" title="Harapan Mitra Sejati RSS Feed" href="feed/index.html" />
-    <link rel="alternate" type="application/atom+xml" title="Harapan Mitra Sejati Atom Feed" href="feed/atom/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="IslandConstructors RSS Feed" href="feed/index.html" />
+    <link rel="alternate" type="application/atom+xml" title="IslandConstructors Atom Feed" href="feed/atom/index.html" />
     <link rel="pingback" href="xmlrpc.html" />
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <script type="text/javascript">
@@ -26,72 +26,25 @@
         } /* ]]>*/
     </script>
     <!-- This site is optimized with the Yoast SEO Premium plugin v20.3 (Yoast SEO v20.3) - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>Distributor Building Materials Jakarta - Harapan Mitra Sejati</title>
-    <meta name="description" content="PT Harapan Mitra Sejati adalah distributor bahan bangunan untuk proyek konstruksi seperti produk besi, baja, pelat, pipa, dan produk lainnya" />
+    <title>Distributor Building Materials Jakarta - IslandConstructors</title>
+    <meta name="description" content="IslandConstructors adalah distributor bahan bangunan untuk proyek konstruksi seperti produk besi, baja, pelat, pipa, dan produk lainnya" />
     <link rel="canonical" href="index.html" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Distributor Bahan Bangunan Jakarta" />
-    <meta property="og:description" content="PT Harapan Mitra Sejati adalah distributor bahan bangunan untuk proyek konstruksi seperti produk besi, baja, pelat, pipa, dan produk lainnya" />
-    <meta property="og:url" content="https://harapanmitragroup.co.id/" />
-    <meta property="og:site_name" content="Harapan Mitra Sejati" />
+    <meta property="og:description" content="IslandConstructors adalah distributor bahan bangunan untuk proyek konstruksi seperti produk besi, baja, pelat, pipa, dan produk lainnya" />
+    <meta property="og:url" content="https://IslandConstructors.com/" />
+    <meta property="og:site_name" content="IslandConstructors" />
     <meta property="article:modified_time" content="2019-11-08T03:23:24+00:00" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:label1" content="Est. reading time" />
     <meta name="twitter:data1" content="11 minutes" />
-    <script type="application/ld+json" class="yoast-schema-graph">
-      {
-        "@context": "https://schema.org",
-        "@graph": [{
-          "@type": "WebPage",
-          "@id": "https://harapanmitragroup.co.id/",
-          "url": "https://harapanmitragroup.co.id/",
-          "name": "Distributor Bahan Bangunan Jakarta - Harapan Mitra Sejati",
-          "isPartOf": {
-            "@id": "https://harapanmitragroup.co.id/#website"
-          },
-          "datePublished": "2015-02-21T01:17:29+00:00",
-          "dateModified": "2019-11-08T03:23:24+00:00",
-          "description": "PT Harapan Mitra Sejati adalah distributor bahan bangunan untuk proyek konstruksi seperti produk besi, baja, pelat, pipa, dan produk lainnya",
-          "breadcrumb": {
-            "@id": "https://harapanmitragroup.co.id/#breadcrumb"
-          },
-          "inLanguage": "en-US",
-          "potentialAction": [{
-            "@type": "ReadAction",
-            "target": ["https://harapanmitragroup.co.id/"]
-          }]
-        }, {
-          "@type": "BreadcrumbList",
-          "@id": "https://harapanmitragroup.co.id/#breadcrumb",
-          "itemListElement": [{
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home"
-          }]
-        }, {
-          "@type": "WebSite",
-          "@id": "https://harapanmitragroup.co.id/#website",
-          "url": "https://harapanmitragroup.co.id/",
-          "name": "Harapan Mitra Sejati",
-          "description": "Distributor Besi Semen Jakarta",
-          "potentialAction": [{
-            "@type": "SearchAction",
-            "target": {
-              "@type": "EntryPoint",
-              "urlTemplate": "https://harapanmitragroup.co.id/?s={search_term_string}"
-            },
-            "query-input": "required name=search_term_string"
-          }],
-          "inLanguage": "en-US"
-        }]
-      }
-    </script>
+
     <!-- / Yoast SEO Premium plugin. -->
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-    <link rel="alternate" type="application/rss+xml" title="Harapan Mitra Sejati &raquo; Feed" href="feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="Harapan Mitra Sejati &raquo; Comments Feed" href="comments/feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="Harapan Mitra Sejati &raquo; Distributor Bahan Bangunan Jakarta Comments Feed" href="distributor-bahan-bangunan-jakarta/feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="IslandConstructors &raquo; Feed" href="feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="IslandConstructors &raquo; Comments Feed" href="comments/feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="IslandConstructors &raquo; Distributor Bahan Bangunan Jakarta Comments Feed" href="distributor-bahan-bangunan-jakarta/feed/index.html" />
     <script type="text/javascript">
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/",
@@ -752,8 +705,8 @@
             <div class="mobile-menu-button icon-menu"></div>
             <!-- logo -->
             <div id="logo" class="site-logo">
-                <a href="{{ route('index') }}" title="Harapan Mitra Sejati">
-                    <h1 style="font-weight: bolder; color: white">IslandContractors</h1>
+                <a href="{{ route('index') }}" title="IslandConstructors">
+                    <h1 style="font-weight: bolder; color: white">IslandConstructors</h1>
 {{--                    <img src="wp-content/uploads/2021/09/logo-harapan-mitra-group.png" alt="Harapan Mitra Sejati" width="504" height="125" class="main_logo" />--}}
                 </a>
             </div>
@@ -763,7 +716,7 @@
                 <nav>
                     <ul id="navigation" class="menu">
                         <li id='menu-item-2859' data-depth='0' class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2538 current_page_item">
-                            <a href="index.html">HOME</a>
+                            <a href="{{ route('index') }}">HOME</a>
                         </li>
                         <li id='menu-item-2831' data-depth='0' class="menu-item menu-item-type-post_type menu-item-object-page">
                             <a href="tentang-kami/index.html">ABOUT US</a>
@@ -831,7 +784,7 @@
                         <div class="textwidget custom-html-widget">
                             <img alt="Distributor Besi Jakarta dan Sekitarnya" src="wp-content/uploads/2021/09/logo-harapan-mitra-group.png" width="80%" />
                             <br />
-                            <p> PT Harapan Mitra Sejati (PT HMS) didirikan pada tahun 2013 dengan tujuan menjadi pemain penting dalam bidang penyediaan material konstruksi untuk pasar domestik Indonesia. </p>
+                            <p> IslandConstructors (PT HMS) didirikan pada tahun 2013 dengan tujuan menjadi pemain penting dalam bidang penyediaan material konstruksi untuk pasar domestik Indonesia. </p>
                             <p> Memadukan pelayanan terbaik dengan produk berkualitas tinggi, pada saat ini PT HMS telah mendukung berbagai proyek konstruksi di Jakarta dan sekitarnya. </p>
                         </div>
                     </div>
@@ -912,7 +865,7 @@
                             <div class="with_icons style-1">
                                 <div>
                                     <span class="icon icon-home"></span>
-                                    <div>PT Harapan Mitra Sejati <br /> SENTRA 22 (Depan Pintu Tol Semper 2) <br /> Jalan Cakung Cilincing Raya No. 22, RT 001, RW 003, Semper Timur, Cilincing 14130 </div>
+                                    <div>IslandConstructors <br /> SENTRA 22 (Depan Pintu Tol Semper 2) <br /> Jalan Cakung Cilincing Raya No. 22, RT 001, RW 003, Semper Timur, Cilincing 14130 </div>
                                 </div>
                                 <div>
                                     <span class="icon icon-phone"></span>
@@ -921,7 +874,7 @@
                                 <div>
                                     <span class="icon icon-mail-1"></span>
                                     <div>
-                                        <a href="mailto:harapanmitrasejati@gmail.com">harapanmitrasejati@gmail.com</a>
+                                        <a href="mailto:info@islandcontractors.com">info@islandcontractors.com</a>
                                     </div>
                                 </div>
                             </div>
@@ -933,30 +886,7 @@
         <div class="content_row row clearfix footer_contents footer_info_bar fullwidth">
             <div class="content_row_wrapper default clearfix">
                 <div class="col col-sm-12">
-                    <div class="copyright ">Copyright © PT. Harapan Mitra Sejati.</div>
-                    <ul id="footer-navigation" class="menu">
-                        <li id="menu-item-3489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3489">
-                            <a href="jual-besi-beton/index.html">Besi Beton</a>
-                        </li>
-                        <li id="menu-item-3488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3488">
-                            <a href="jual-besi-plat/index.html">Besi Plat</a>
-                        </li>
-                        <li id="menu-item-3528" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3528">
-                            <a href="product-category/baja-wf/index.html">WF / Wide Flange</a>
-                        </li>
-                        <li id="menu-item-3529" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3529">
-                            <a href="product-category/baja-hb-hbeam/index.html">H-Beam</a>
-                        </li>
-                        <li id="menu-item-3506" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3506">
-                            <a href="jual-pipa/index.html">Pipa</a>
-                        </li>
-                        <li id="menu-item-3531" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3531">
-                            <a href="product-category/semen-tiga-roda/index.html">Semen</a>
-                        </li>
-                        <li id="menu-item-3533" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3533">
-                            <a href="product-category/wiremesh-m8/index.html">Wiremesh</a>
-                        </li>
-                    </ul>
+                    <div class="copyright ">Copyright © IslandContractors</div>
                 </div>
             </div>
         </div>
