@@ -752,7 +752,7 @@
             <div class="mobile-menu-button icon-menu"></div>
             <!-- logo -->
             <div id="logo" class="site-logo">
-                <a href="index.html" title="Harapan Mitra Sejati">
+                <a href="{{ route('index') }}" title="Harapan Mitra Sejati">
                     <img src="wp-content/uploads/2021/09/logo-harapan-mitra-group.png" alt="Harapan Mitra Sejati" width="504" height="125" class="main_logo" />
                 </a>
             </div>
@@ -765,19 +765,19 @@
                             <a href="index.html">HOME</a>
                         </li>
                         <li id='menu-item-2831' data-depth='0' class="menu-item menu-item-type-post_type menu-item-object-page">
-                            <a href="tentang-kami/index.html">TENTANG KAMI</a>
+                            <a href="tentang-kami/index.html">ABOUT US</a>
                         </li>
                         <li id='menu-item-2843' data-depth='0' class="menu-item menu-item-type-post_type menu-item-object-page">
-                            <a href="shop/index.html">PRODUK</a>
+                            <a href="shop/index.html">PRODUCT</a>
                         </li>
                         <li id='menu-item-2835' data-depth='0' class="menu-item menu-item-type-post_type menu-item-object-page">
                             <a href="blog/index.html">BLOG</a>
                         </li>
                         <li id='menu-item-3826' data-depth='0' class="menu-item menu-item-type-post_type menu-item-object-page">
-                            <a href="our-partners/index.html">OUR PARTERS</a>
+                            <a href="our-partners/index.html">OUR PARTIES</a>
                         </li>
                         <li id='menu-item-2833' data-depth='0' class="menu-item menu-item-type-post_type menu-item-object-page">
-                            <a href="contact-us/index.html">MINTA PENAWARAN</a>
+                            <a href="contact-us/index.html">REQUEST AN OFFER</a>
                         </li>
                     </ul>
                 </nav>
