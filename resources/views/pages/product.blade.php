@@ -255,42 +255,42 @@
                     </div>
                     <div class="col col-sm-3 col-xs-12 sidebar right widgets_holder" style="min-height: 1676.38px;">
                         <div id="woocommerce_product_categories-1" class="widget woocommerce widget_product_categories">
-                            <h5>Kategori Produk</h5>
+                            <h5>IslandConstructors Products</h5>
                             <ul class="product-categories">
                                 <li class="cat-item cat-item-64 cat-parent">
-                                    <a href="https://harapanmitragroup.co.id/product-category/besi-beton/">Besi Beton / Reinforcing Bar</a>
+                                    <a >Steel bar / Reinforcing Bar</a>
                                     <ul class="children">
-                                        <li class="cat-item cat-item-54"><a href="https://harapanmitragroup.co.id/product-category/besi-beton/besi-beton-polos/">Besi Beton Polos</a></li>
-                                        <li class="cat-item cat-item-55"><a href="https://harapanmitragroup.co.id/product-category/besi-beton/besi-beton-ulir/">Besi Beton Ulir</a></li>
+                                        <li class="cat-item cat-item-54"><a >Plain Concrete Steel</a></li>
+                                        <li class="cat-item cat-item-55"><a >Concrete steel screw</a></li>
                                     </ul>
                                 </li>
-                                <li class="cat-item cat-item-52"><a href="https://harapanmitragroup.co.id/product-category/hollow-pipa-kotak/">Besi Hollow (Pipa Kotak) / Square Hollow Section</a></li>
-                                <li class="cat-item cat-item-43"><a href="https://harapanmitragroup.co.id/product-category/siku/">Besi Siku / Angle Bar</a></li>
-                                <li class="cat-item cat-item-153"><a href="https://harapanmitragroup.co.id/product-category/kanal-c/">CNP</a></li>
-                                <li class="cat-item cat-item-46"><a href="https://harapanmitragroup.co.id/product-category/baja-hb-hbeam/">H-Beam</a></li>
-                                <li class="cat-item cat-item-66"><a href="https://harapanmitragroup.co.id/product-category/hebel/">Hebel (Bata Ringan)</a></li>
-                                <li class="cat-item cat-item-68"><a href="https://harapanmitragroup.co.id/product-category/mortar-utama/">Mortar</a></li>
-                                <li class="cat-item cat-item-72"><a href="https://harapanmitragroup.co.id/product-category/pagar-brc/">Pagar BRC</a></li>
+                                <li class="cat-item cat-item-52"><a >Hollow Steel (Box Pipe) Square Hollow Section</a></li>
+                                <li class="cat-item cat-item-43"><a >Angle Bar Iron</a></li>
+                                <li class="cat-item cat-item-153"><a >CNP</a></li>
+                                <li class="cat-item cat-item-46"><a >H-Beam</a></li>
+                                <li class="cat-item cat-item-66"><a >Hebel (Light Brick)</a></li>
+                                <li class="cat-item cat-item-68"><a >Mortar</a></li>
+                                <li class="cat-item cat-item-72"><a >Pay BRC</a></li>
                                 <li class="cat-item cat-item-70 cat-parent">
-                                    <a href="https://harapanmitragroup.co.id/product-category/pipa/">Pipa / Pipe</a>
+                                    <a >Pipa / Pipe</a>
                                     <ul class="children">
-                                        <li class="cat-item cat-item-48"><a href="https://harapanmitragroup.co.id/product-category/pipa/pipa-hitam-medium/">Pipa Hitam Medium</a></li>
-                                        <li class="cat-item cat-item-49"><a href="https://harapanmitragroup.co.id/product-category/pipa/pipa-schedule-40/">Pipa Schedule 40 (sch 40)</a></li>
-                                        <li class="cat-item cat-item-50"><a href="https://harapanmitragroup.co.id/product-category/pipa/pipa-schedule-80-sch-80/">Pipa Schedule 80 (sch 80)</a></li>
-                                        <li class="cat-item cat-item-51"><a href="https://harapanmitragroup.co.id/product-category/pipa/pipa-seamless/">Pipa Seamless</a></li>
+                                        <li class="cat-item cat-item-48"><a >Medium Black Pipe</a></li>
+                                        <li class="cat-item cat-item-49"><a >Pipa Schedule 40 (sch 40)</a></li>
+                                        <li class="cat-item cat-item-50"><a >Pipa Schedule 80 (sch 80)</a></li>
+                                        <li class="cat-item cat-item-51"><a >Pipa Seamless</a></li>
                                     </ul>
                                 </li>
-                                <li class="cat-item cat-item-58"><a href="https://harapanmitragroup.co.id/product-category/plat-bordes/">Plat Bordes / Chequered Plate</a></li>
-                                <li class="cat-item cat-item-56"><a href="https://harapanmitragroup.co.id/product-category/plat-hitam/">Plat Hitam / Carbon Steel Plate</a></li>
-                                <li class="cat-item cat-item-57"><a href="https://harapanmitragroup.co.id/product-category/plat-kapal/">Plat Kapal / Vessel Plate</a></li>
-                                <li class="cat-item cat-item-61"><a href="https://harapanmitragroup.co.id/product-category/plat-putih/">Plat Putih / Cold Rolled Steel Sheet</a></li>
-                                <li class="cat-item cat-item-60"><a href="https://harapanmitragroup.co.id/product-category/plat-stainless/">Plat Stainless / Cold Rolled Stainless Sheet</a></li>
-                                <li class="cat-item cat-item-59"><a href="https://harapanmitragroup.co.id/product-category/plat-strip/">Plat Strip / Flat Bar</a></li>
-                                <li class="cat-item cat-item-65"><a href="https://harapanmitragroup.co.id/product-category/semen-tiga-roda/">Semen</a></li>
-                                <li class="cat-item cat-item-67"><a href="https://harapanmitragroup.co.id/product-category/triplek-mc/">Triplek</a></li>
-                                <li class="cat-item cat-item-45"><a href="https://harapanmitragroup.co.id/product-category/kanal-u/">UNP / U Channel Bar</a></li>
-                                <li class="cat-item cat-item-47"><a href="https://harapanmitragroup.co.id/product-category/baja-wf/">WF / Wide Flange</a></li>
-                                <li class="cat-item cat-item-53"><a href="https://harapanmitragroup.co.id/product-category/wiremesh-m8/">Wiremesh</a></li>
+                                <li class="cat-item cat-item-58"><a >Plat borders / Chequered Plate</a></li>
+                                <li class="cat-item cat-item-56"><a >Plat Black / Carbon Steel Plate</a></li>
+                                <li class="cat-item cat-item-57"><a >Plat Boat / Vessel Plate</a></li>
+                                <li class="cat-item cat-item-61"><a >Plat White / Cold Rolled Steel Sheet</a></li>
+                                <li class="cat-item cat-item-60"><a >Plat Stainless / Cold Rolled Stainless Sheet</a></li>
+                                <li class="cat-item cat-item-59"><a >Plat Strip / Flat Bar</a></li>
+                                <li class="cat-item cat-item-65"><a >Semen</a></li>
+                                <li class="cat-item cat-item-67"><a >plywood</a></li>
+                                <li class="cat-item cat-item-45"><a >UNP / U Channel Bar</a></li>
+                                <li class="cat-item cat-item-47"><a >WF / Wide Flange</a></li>
+                                <li class="cat-item cat-item-53"><a >Wiremesh</a></li>
                             </ul>
                         </div>
                         <div id="custom_html-4" class="widget_text widget widget_custom_html">
@@ -298,7 +298,7 @@
                                 <div class="with_icons style-1">
                                     <div>
                                         <span class="icon icon-home"></span>
-                                        <div>HARAPAN MITRA GROUP<br>
+                                        <div>IslandConstructors GROUP<br>
                                             SENTRA 22<br>
                                             Jalan Cakung Cilincing Raya No. 22<br>
                                             Semper Timur, Cilincing,<br>
@@ -312,24 +312,13 @@
                                     </div>
                                     <div>
                                         <span class="icon icon-mail-1"></span>
-                                        <div><a href="mailto:harapanmitrasejati@gmail.com">harapanmitrasejati@gmail.com</a>
+                                        <div><a href="mailto:info@islandcontractors.com">info@islandcontractors.com</a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div id="social_media_icons-2" class="widget widget_social_media_icons">
-                            <ul class="social_media">
-                                <li class="mail"><a class="icon-mail" target="_blank" href="/contact-us/" title="Email"><span>Contact Us</span></a></li>
-                                <li class="twitter"><a class="icon-twitter" target="_blank" href="https://twitter.com/harapanmitrase1" title="Twitter"><span>Follow us on Twitter</span></a></li>
-                                <li class="facebook"><a class="icon-facebook" target="_blank" href="https://www.facebook.com/ptharapanmitrasejati" title="Facebook"><span>Follow us on Facebook</span></a></li>
-                                <li class="gplus"><a class="icon-gplus" target="_blank" href="https://plus.google.com/+HarapanMitraSejatiPT" title="Google +"><span>Follow us on Google+</span></a></li>
-                                <li class="linkedin"><a class="icon-linkedin" target="_self" href="#" title="Linkedin"><span>Career Opportunities</span></a></li>
-                                <li class="skype"><a class="icon-skype" target="_blank" href="skype:0003BFFD1B8ADE7F?call" title="Skype"><span>Call us via Skype</span></a></li>
-                                <li class="instagram"><a class="icon-instagram" target="_blank" href="https://www.instagram.com/harapanmitragroup" title="Instagram"><span>Follow us on Instagram</span></a></li>
-                                <li class="youtube-play"><a class="icon-youtube-play" target="_self" href="https://www.youtube.com/channel/UCBpUyrjJ4gSUkFK1FDjdHtw/" title="YouTube"><span>Subscribe our YouTube Channel</span></a></li>
-                            </ul>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
