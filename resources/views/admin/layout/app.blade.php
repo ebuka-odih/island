@@ -37,12 +37,6 @@
                     </a>
                     <!-- END User Avatar -->
 
-                    <!-- User Info -->
-                    <div class="ms-2">
-                        <a class="text-white fw-semibold" href="be_pages_generic_profile.html">George Taylor</a>
-                        <div class="text-white-75 fs-sm">Full Stack Developer</div>
-                    </div>
-                    <!-- END User Info -->
 
                     <!-- Close Side Overlay -->
                     <!-- Layout API, functionality initialized in Template._uiApiLayout() -->

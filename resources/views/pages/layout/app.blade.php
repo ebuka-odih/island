@@ -693,9 +693,9 @@
 </head>
 <body class="home page-template-default page page-id-2538 theme-rttheme19 woocommerce-no-js rt-loading  layout2 wpb-js-composer js-comp-ver-5.5.2 vc_responsive">
 <!-- loader -->
-<div id="loader-wrapper">
-    <div id="loader"></div>
-</div>
+{{--<div id="loader-wrapper">--}}
+{{--    <div id="loader"></div>--}}
+{{--</div>--}}
 <!-- / #loader -->
 <!-- background wrapper -->
 <div id="container">
@@ -731,7 +731,7 @@
                             <a href="our-partners/index.html">OUR PARTIES</a>
                         </li>
                         <li id='menu-item-2833' data-depth='0' class="menu-item menu-item-type-post_type menu-item-object-page">
-                            <a href="contact-us/index.html">TRACK PRODUCT</a>
+                            <a href="{{ route('track') }}">TRACK PRODUCT</a>
                         </li>
                     </ul>
                 </nav>
