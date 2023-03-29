@@ -750,7 +750,8 @@
                 <div id="footer-column-1" class="col col-xs-12 col-sm-4 widgets_holder">
                     <div id="custom_html-2" class="widget_text footer_widget widget widget_custom_html">
                         <div class="textwidget custom-html-widget">
-                            <img alt="Distributor Besi Jakarta dan Sekitarnya" src="wp-content/uploads/2021/09/logo-harapan-mitra-group.png" width="80%" />
+                            <h1 style="font-weight: bolder; color: white">IslandConstructors</h1>
+{{--                            <img alt="Distributor Besi Jakarta dan Sekitarnya" src="wp-content/uploads/2021/09/logo-harapan-mitra-group.png" width="80%" />--}}
                             <br />
                             <p> IslandConstructors was founded in 2013 with the aim of becoming an important player in the supply of construction materials for the Indonesian domestic market. </p>
                             <p>Combining the best service with high quality products, currently IslandConstructors has supported various construction projects in Jakarta and its surroundings. </p>
@@ -784,7 +785,7 @@
                 </div>
                 <div id="footer-column-3" class="col col-xs-12 col-sm-4 widgets_holder">
                     <div id="custom_html-3" class="widget_text footer_widget widget widget_custom_html">
-                        <h5>Kantor</h5>
+                        <h5>Contact</h5>
                         <div class="textwidget custom-html-widget">
                             <div class="with_icons style-1">
                                 <div>
